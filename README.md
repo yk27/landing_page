@@ -1,3 +1,3 @@
 # landing_page
-# Project: Landing Page
+## Project: Landing Page
 Made for The Odin Project

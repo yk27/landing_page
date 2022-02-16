@@ -30,6 +30,50 @@ a {
     padding-left: 300px;
 }
 
+.websiteInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 50px 0;
+}
+
+.websiteInfo img {
+    padding-right: 400px;
+}
+
+.heroText {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+
+
+.content .text {
+    color: white;
+    padding-bottom: 10px;
+}
+
+.content {
+    max-width: 350px;
+    padding-left: 300px;
+}
+
+.signup {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    padding: 10px 30px;
+    border: #3882F6;
+    border-radius: 8px;
+}
+
+.signup:hover {
+    background-color: #1b69e7;
+}
+
 .footer {
     display: flex;
     flex-direction: row;
